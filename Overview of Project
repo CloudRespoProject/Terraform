@@ -1,0 +1,2 @@
+In this project I have deployed follwoing new AWS resources: 
+VPC, Security groups, Internet Gateway, Public and Private subnets , Route tables attached with Public subnet, Elastic IP, NAT gateway, Application Loadbalancer attached with Target groups, Autoscalling Group. 
